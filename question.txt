@@ -1,0 +1,7 @@
+Exercise 4: Create a Profile Card with Props
+Build a reusable ProfileCard component that accepts props like name, photo, and bio.
+
+Hints:
+
+Use props for dynamic data.
+Style the component using inline styles or CSS.

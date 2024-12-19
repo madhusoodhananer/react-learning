@@ -1,5 +1,10 @@
+import ProfileCard from "./components/ProfileCard";
 function App() {
-  return <>hi</>;
+  return (
+    <>
+      <ProfileCard />
+    </>
+  );
 }
 
 export default App;
