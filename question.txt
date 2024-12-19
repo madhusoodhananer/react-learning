@@ -1,0 +1,6 @@
+Create a ShoppingList component that takes an array of items and displays them as an unordered list.
+
+Hints:
+
+Use the map() function to render each item.
+Don't forget to add a key for each list item.
