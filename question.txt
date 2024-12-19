@@ -1,0 +1,7 @@
+Exercise 1: Dynamic Greetings Based on Time of Day
+Create a component that displays a dynamic greeting message (Good Morning, Good Afternoon, or Good Evening) based on the current time.
+
+Hints:
+
+Use JavaScript's Date object to get the current hour.
+Use conditional rendering.

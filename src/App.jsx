@@ -1,13 +1,12 @@
-import { useState } from 'react'
+import React from "react";
 
+import DynamicGreeting from "./components/DynamicGreeting";
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-     hi
+      <DynamicGreeting name={"Madhu"} />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
