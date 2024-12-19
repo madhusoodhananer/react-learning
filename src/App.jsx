@@ -1,5 +1,10 @@
+import Toggle from "./components/Toggle";
 function App() {
-  return <>hi</>;
+  return (
+    <>
+      <Toggle />
+    </>
+  );
 }
 
 export default App;

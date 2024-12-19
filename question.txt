@@ -1,0 +1,8 @@
+Exercise 3: Toggle Visibility
+Create a ToggleContent component that shows or hides content when a button is clicked.
+
+Hints:
+
+Use the useState hook for toggling.
+jsx
+Copy code
